@@ -1,5 +1,5 @@
 <p>
-  Year 2 CS student at NUS interested in C++,
+  Year 2 CS student @ NUS interested in C++,
   algorithms, and full-stack development. Currently, working on a personal project on parallel graph implementations, 
   <a href="https://legalunicorn.github.io/edgewise/">Edgewise</a>.
 </p>
@@ -30,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
