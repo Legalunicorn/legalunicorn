@@ -80,6 +80,22 @@ Year 2 CS student at NUS interested in C++,
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/legalunicorn/legalunicorn/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/legalunicorn/legalunicorn/output/pacman-contribution-graph.svg"
+  />
+  <img
+    width="100%"
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/legalunicorn/legalunicorn/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=legalunicorn&style=flat-square&color=7aa2f7&label=views" alt="Profile views" />
