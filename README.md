@@ -1,9 +1,7 @@
 <p>
   Year 2 CS student at NUS interested in C++,
-  algorithms, and full-stack development.Currently working on
-  <a href="https://legalunicorn.github.io/edgewise/">Edgewise</a>,
-  a C++ graph-processing project exploring parallel algorithms,
-  performance, and implementation tradeoffs.
+  algorithms, and full-stack development. Currently, working on a personal project on parallel graph implementations, 
+  <a href="https://legalunicorn.github.io/edgewise/">Edgewise</a>.
 </p>
 
 <p align="center">
