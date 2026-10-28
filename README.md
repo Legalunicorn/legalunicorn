@@ -20,7 +20,7 @@
 ### stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=legalunicorn&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&hide_rank=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=legalunicorn&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=legalunicorn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most used languages" />
 </p>
 
