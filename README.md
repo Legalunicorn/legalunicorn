@@ -1,5 +1,5 @@
 <p align="center">
-  NUS CS undergraduate interested in C++, algorithms, and full-stack development. Currently working on
+  I like C++, algorithms, and full-stack development. Currently working on
   <a href="https://legalunicorn.github.io/edgewise/">Edgewise</a>,
   a C++ project on parallel graph algorithms and benchmarks.
 </p>
