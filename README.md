@@ -5,9 +5,13 @@
 </p>
 </br>
 <p align="center">
+  <a href="https://hiroc.dev">
+    <img src="https://img.shields.io/badge/Portfolio-hiroc.dev-BB9AF7?style=for-the-badge&labelColor=282A36" alt="Nathan's portfolio" />
+  </a>  
   <a href="https://codeforces.com/profile/hiroc">
     <img src="https://img.shields.io/badge/Codeforces-hiroc-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=282A36" alt="Codeforces: hiroc" />
   </a>
+</br>
   <a href="https://atcoder.jp/users/meatymonken">
     <img src="https://img.shields.io/badge/AtCoder-meatymonken-7AA2F7?style=for-the-badge&labelColor=282A36" alt="AtCoder: meatymonken" />
   </a>
